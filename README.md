@@ -1,4 +1,4 @@
-# WebcamVariasTelasAleatoriasColoridas
+# webcamVariasTelasAleatoriasColoridas
 
 Olá!, esse código é para fazer testar a webcam do seu computador criando vários quadros coloridos decorativo!!!
 
