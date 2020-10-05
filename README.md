@@ -1,9 +1,9 @@
 # WebcamVariasTelasAleatoriasColoridas
 
-Olá!, esse código é para fazer funcionar a webcam do seu computador criando vários quadros coloridos decorativo!!!
+Olá!, esse código é para fazer testar a webcam do seu computador criando vários quadros coloridos decorativo!!!
 
-Para ver o código rodando basta entrar nesse link: https://willianxz.github.io/WebcamVariasTelasAleatoriasColoridas/
+Para ver esse código rodando entre nessa URL: link: https://willianxz.github.io/WebcamVariasTelasAleatoriasColoridas/
 
-Para salvar sua "foto" basta clicar com o botão direito do mouse!!
+Para salvar sua foto, basta clicar com o botão direito do mouse, será salvo uma foto sua em seu computador na pasta de Dowloads!!! :)
 
 Have A Funny Day!!! :) 
