@@ -15,7 +15,7 @@ function draw(){
   
   if(tempo > 20){
     tint(random(255), random(255), random(255));
-    imagens = image(capture, random(0, width + 150), random(0, height - 150), 150, 150);    
+    imagens = image(capture, random(0, width - 150), random(0, height - 150), 150, 150);    
     tempo = 0;
   }
   
